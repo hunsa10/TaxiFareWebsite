@@ -3,7 +3,7 @@ import datetime
 import requests
 
 '''
-# TaxiFareModel front
+# TaxiFareModel
 '''
 
 st.markdown('''
